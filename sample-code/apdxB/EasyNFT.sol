@@ -1,5 +1,5 @@
 pragma solidity ^0.5.6;
-import "https://github.com/minhyeokl/imagebox/blob/main/kip17.sol";
+import "https://github.com/hanbit/easy-nft-guide/blob/main/sample-code/apdxB/EasyNFT.sol";
 /**
  * 이 아래부터는 우리가 구현할 NFT의 구현입니다.
  * 직접 옮겨쓰거나 복사-붙여넣기합시다.
